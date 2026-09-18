@@ -41,9 +41,23 @@ Một kỹ sư **Fullstack / Backend Developer** với hơn 8 năm kinh nghiệm
 
 Bảng thống kê hiệu suất hoạt động trên GitHub của tôi:
 
-![GitHub Stats](https://vercel.app)
+### 🛠️ Kỹ Năng Chuyên Môn (Tech Stack)
 
-![Top Languages](https://vercel.app)
+#### 🖥️ Backend Development
+![PHP](https://shields.io)
+![Laravel](https://shields.io)
+![Node.js](https://shields.io)
+![NestJS](https://shields.io)
+![TypeScript](https://shields.io)
+
+#### ☸️ DevOps & Infrastructure
+![Kubernetes](https://shields.io)
+![Rancher](https://shields.io)
+![Docker](https://shields.io)
+![Elasticsearch](https://shields.io)
+![Kibana](https://shields.io)
+![AWS](https://shields.io)
+
 
 ---
 

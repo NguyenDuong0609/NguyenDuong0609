@@ -39,7 +39,7 @@ Một kỹ sư **Fullstack / Backend Developer** với hơn 8 năm kinh nghiệm
 
 ### 📊 GitHub Statistics
 
-Bảng thống kê hiệu suất hoạt động trên GitHub của tôi (Bạn hãy thay thế cụm `dien_username_cua_ban` bằng tên tài khoản GitHub thực tế của bạn nhé):
+Bảng thống kê hiệu suất hoạt động trên GitHub của tôi:
 
 ![GitHub Stats](https://vercel.app)
 
